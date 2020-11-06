@@ -1,3 +1,6 @@
+## Return Analysis and Total Equity Valuation
+## Internal Rate  of Returns Calculation
+
 # Import key libraries, function and classes
 import numpy as np
 import pandas as pd
